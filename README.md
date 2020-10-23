@@ -27,8 +27,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />][flutterdesign]
-[<img align="left" alt="React" width="26px" src="https://dartdoc.takyam.com/logos/dart-bird.svg" />][flutterplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__NkK2lKq.png" />][flutterdesign]
+[<img align="left" alt="React" width="26px" src="https://dartdoc.takyam.com/logos/dart-logo.png" />][flutterplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://www.didierboelens.com/images/blog/hummingbird_logo.png" />][flutterweb]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
