@@ -28,7 +28,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__NkK2lKq.png" />][flutterdesign]
-[<img align="left" alt="React" width="26px" src="https://w7.pngwing.com/pngs/595/79/png-transparent-dart-programming-language-flutter-object-oriented-programming-flutter-logo-class-fauna-bird.png" />][flutterweb]
+[<img align="left" alt="React" width="26px" src="https://banner2.cleanpng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg" />][flutterweb]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://p.kindpng.com/picc/s/476-4768341_javascript-logo-number-angularjs-node-javascript-transparent-background.png" />][jsplaylist]
