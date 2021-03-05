@@ -11,7 +11,7 @@
 - 🔭 Just love to write blogs and create awesome content on Flutter. Specially Recraft UI.
 - 🌱 I’m currently learning everything 🤣 Specially PGSql.
 - 👯 I’m looking to collaborate with other content creators for a good technical aspect in Flutter.
-- 🥅 2020 Goals: Contribute more to Flutter Open Source projects and deploy apps with awesome designs all around.
+- 🥅 2021 Goals: Contribute more to Flutter Open Source projects and deploy apps with awesome designs all around.
 - ⚡ Fun fact: I love to ride downhill on my 🚴 MTB .
 
 ### Connect with me:
