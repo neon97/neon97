@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vishwak10925695?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Vishwak10925695)
 
 
-## I'm a Developer,  Blogger, Youtuber and a Teacher!!
+## I'm a Developer,\tBlogger,\tYoutuber and a Teacher!!
 
 - 🔭 Just love to write blogs and create awesome content on Flutter. Specially Recraft UI.
 - 🌱 I’m currently learning everything 🤣 Specially PGSql.
