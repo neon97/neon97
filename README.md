@@ -3,7 +3,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vishwak10925695?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Vishwak10925695)
-<input type="button" onclick="(function(btn){var z=document.createElement('script');document.subtomeBtn=btn;z.src='https://www.subtome.com/load.js';document.body.appendChild(z);})(this)" value="Subscribe">
+
 
 
 
