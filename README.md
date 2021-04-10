@@ -3,7 +3,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Vishwak10925695?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Vishwak10925695)
-[![Youtube Follow](https://img.shields.io/twitter/follow/EdutechLoad?color=FF0000&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw)
+[![Youtube Follow](https://img.shields.io/twitter/subscribe/Edutech Load?color=FF0000&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw)
 
 
 ## I'm a Developer, Blogger, Youtuber and a Teacher!!
