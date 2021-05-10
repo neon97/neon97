@@ -3,7 +3,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/raj_flutteroid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raj_flutteroid)
-[![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCRhmjCnvOgULTzEFe-Jpfdw?label=Edutech%20Load&style=social)](https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw?sub_confiration=1)
+[![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCRhmjCnvOgULTzEFe-Jpfdw?color=red&label=Edutech%20Load&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw?sub_confiration=1)
 
 
 
