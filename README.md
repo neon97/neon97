@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vishwak10925695?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raj_flutteroid)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raj_flutteroid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/raj_flutteroid)
 
 
 
